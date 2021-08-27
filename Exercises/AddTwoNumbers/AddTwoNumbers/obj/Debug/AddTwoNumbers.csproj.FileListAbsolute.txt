@@ -1,0 +1,7 @@
+C:\Users\srira\Desktop\GitHub\C#\Exercises\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
+C:\Users\srira\Desktop\GitHub\C#\Exercises\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
+C:\Users\srira\Desktop\GitHub\C#\Exercises\AddTwoNumbers\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
+C:\Users\srira\Desktop\GitHub\C#\Exercises\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.csprojAssemblyReference.cache
+C:\Users\srira\Desktop\GitHub\C#\Exercises\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\srira\Desktop\GitHub\C#\Exercises\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
+C:\Users\srira\Desktop\GitHub\C#\Exercises\AddTwoNumbers\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb
